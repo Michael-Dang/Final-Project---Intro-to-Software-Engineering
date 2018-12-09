@@ -1,5 +1,8 @@
 # CODE FREEZE: The main contents of this repository are located in the client and server folders.  
 
+Group 17 - Michael Dang, Richard Gesin, Ben Chrisman
+
+Application : "Is This Food"
 
 # CEG4110 Fall 2018 Project: SeeFood
 You see food, I see food... can your phone see food? It better if you want to get an A in CEG 4110 this semester! 
