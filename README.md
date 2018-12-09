@@ -1,7 +1,7 @@
+# CODE FREEZE: The main contents of this repository are located in the client and server folders.  
+
+
 # CEG4110 Fall 2018 Project: SeeFood
-
-CODE FREEZE: The contents of this repository are mainly located in the client and server folder.  
-
 You see food, I see food... can your phone see food? It better if you want to get an A in CEG 4110 this semester! 
 
 For this semester's project you will implement a software product (written in the language of your choosing) that is able to ingest an image and tell the user whether or not it has food. The project involves: 
